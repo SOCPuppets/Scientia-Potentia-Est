@@ -1,1 +1,53 @@
+Web applications:
 
+XSS
+
+A comprehensive tutorial on cross-site scripting - http://excess-xss.com/
+Favorite XSS Filters/IDS and how to attack them - https://www.blackhat.com/presentations/bh-usa-09/VELANAVA/BHUSA09-VelaNava-FavoriteXSS-SLIDES.pdf
+Introduction to cross-site scripting - https://www.google.com/about/appsecurity/learning/xss/
+Avoiding XSS Detection - http://brutelogic.com.br/blog/avoiding-xss-detection/
+
+CSRF
+
+Finding and Preventing CSRF - http://blackhat.com/presentations/bh-usa-06/BH-US-06-Gallagher.pdf
+How to exploit CSRF Vulnerabilities - http://tipstrickshack.blogspot.com/2012/10/how-to-exploit-csfr-vulnerabilitycsrf.html
+
+SQL Injection
+
+Introduction to SQL Injection - https://prakharprasad.com/introduction-to-sql-injection-and-exploitation-mysql-5-error-based/
+Introduction to MySQL Injection  - http://www.exploit-db.com/download_pdf/14475/
+Full MSSQL Injection PWNage - http://www.exploit-db.com/papers/12975/
+Everything you wanted to know about SQL injection - http://www.troyhunt.com/2013/07/everything-you-wanted-to-know-about-sql.html
+
+Remote Code/Command Execution
+
+How to find RCE in scripts (with examples)- http://exploit-db.com/papers/12885/
+Yahoo LFI Converted to RCE - https://soroush.secproject.com/blog/2013/10/yahoo-bug-bounty-program-lfi-reported-and-patched/
+Remote Code Execution in Elasticsearch - CVE-2015-1427 - http://jordan-wright.github.io/blog/2015/03/08/elasticsearch-rce-vulnerability-cve-2015-1427/
+
+XXE
+
+Generic XXE Detection - http://www.christian-schneider.net/GenericXxeDetection.html
+XML Out-Of-Band Data Retrieval - https://media.blackhat.com/eu-13/briefings/Osipov/bh-eu-13-XML-data-osipov-slides.pdf
+SSRF vs. Business-critical applications: XXE tunneling in SAP - http://erpscan.com/wp-content/uploads/2012/08/SSRF-vs-business-critical-applications.-XXE-Tunelling-in-SAP.pdf
+What you didn’t know about XXE - http://2013.appsecusa.org/2013/wp-content/uploads/2013/12/WhatYouDidntKnowAboutXXEAttacks.pdf
+
+Other:
+
+SSRF Attacks - http://www.slideshare.net/d0znpp/ssrf-attacks-and-sockets-smorgasbord-of-vulnerabilities
+Cross Site Port Attacks - http://riyazwalikar.com/2012/11/cross-site-port-attacks-xspa-part-1.html
+Hunting for Top Bounties - https://www.youtube.com/watch?v=mQjTgDuLsp4
+How to steal and modify data using Business Logic flaws - http://www.slideshare.net/fransrosen/how-to-steal-and-modify-data-using-business-logic-flaws-insecure-direct-object-references
+Exploiting CVE-2011-2461 on google.com http://blog.mindedsecurity.com/2015/03/exploiting-cve-2011-2461-on-googlecom.html
+PentesterLab - https://pentesterlab.com/exercises/
+InjectX to find XSS - https://forum.bugcrowd.com/t/tutorial-injectx-to-find-xss/790
+Attacking Ruby on Rails Applications - http://phrack.org/issues/69/12.html#article
+Mobile Applications:
+
+Android
+Debugging Java Applications Using JDB - http://www.androidpentesting.com/2014/12/debugging-java-applications-using-jdb.html
+Hacking Android Apps Using Backup Techniques - http://resources.infosecinstitute.com/android-hacking-security-part-15-hacking-android-apps-using-backup-techniques
+
+iOS
+Setting Up a Mobile Pentesting Platform - http://resources.infosecinstitute.com/ios-application-security-part-1-setting-up-a-mobile-pentesting-platform
+iOS Application Security - http://highaltitudehacks.com
